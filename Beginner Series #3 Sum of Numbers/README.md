@@ -8,4 +8,4 @@ Note: a and b are not ordered!
 
 ##### Examples
 
-![example]()
+![example](https://github.com/KrayzeX/codeWars-tasks/blob/master/Beginner%20Series%20%233%20Sum%20of%20Numbers/sumOfNum.jpg)
