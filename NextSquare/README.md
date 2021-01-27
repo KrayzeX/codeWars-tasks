@@ -8,4 +8,4 @@ If the parameter is itself not a perfect square then -1 should be returned. You 
 
 ##### Examples
 
-![example]()
+![example](https://github.com/KrayzeX/codeWars-tasks/blob/master/NextSquare/nextSquare.jpg)
